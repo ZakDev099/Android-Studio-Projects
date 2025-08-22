@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Click Me</string>
+    <string name="click_me">Click Me</string>
+    <string name="waiting_for_click">Waiting for Click...</string>
+</resources>
