@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="darkGold">#AF7D29</color>
+    <color name="eggShell">#FFF59D</color>
+    <color name="eggShellLight">#FFF4BA</color>
+    <color name="background">#FDF0C7</color>
 </resources>

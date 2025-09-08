@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EggsCount</string>
+    <string name="eggscount">EggsCount</string>
 </resources>
